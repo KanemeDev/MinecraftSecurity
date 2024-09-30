@@ -56,6 +56,10 @@
 
 - Ne pas activer l'extension JS de [PlaceholderAPI](https://github.com/PlaceholderAPI/PlaceholderAPI) ;
 
+- Bloquer les commandes qui get la directory :
+  - `/protocol dump` ;
+  - `/lp export .` ;
+
 - Bloquer les commandes suivantes : 
   - `/fill` ;
   - `//sphere` ; 
